@@ -1,7 +1,7 @@
 :root {
-    --primario: #524f51;
-    --primarioOscuro: #e3e1e3;
-    --secundario: #FFCE00;
+    --primario: #747474;
+    --primarioOscuro: #cdcccc;
+    --secundario: #00ff33;
     --secundarioOscuro: rgb(233,287,2);
     --blanco: #fff;
     --negro: #000;
@@ -31,7 +31,7 @@ body{
 p{
     font-size: 1.8rem;
     font-family: Arial, Helvetica, sans-serif;
-    color:var(--blanco);
+    color:var(--negro);
 }
 a{
     text-decoration: none;
